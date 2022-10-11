@@ -2,14 +2,14 @@
 
 # Project Name
 
-> Description the project.
+> A small project to get started with JEST, and unit-testing
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- JavaScript
+- Jest
+- GitHub, VSCode
 
 ## Live Demo (if available)
 
